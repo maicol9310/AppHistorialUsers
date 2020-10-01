@@ -24,7 +24,7 @@ namespace WebData.Clases
             stConexion = obclsConexion.GetConexion();
         }
 
-        public string stInsertarAct(string Descr)
+        public string stInsertarAct(string Descr, string Email)
         {
             try
             {
@@ -34,8 +34,9 @@ namespace WebData.Clases
                 sqlCommand = new SqlCommand("InsertarAct", sqlConnection);
                 sqlCommand.CommandType = CommandType.StoredProcedure;
                 sqlCommand.Parameters.Add(new SqlParameter("@Descr", Descr));
+                sqlCommand.Parameters.Add(new SqlParameter("@Email", Email));
 
-                
+
                 sqlCommand.ExecuteNonQuery();
 
                 return "Registro exitoso";

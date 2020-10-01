@@ -32,6 +32,10 @@ namespace WebAppSer.Controllers
 
                     Session["User"] = oUser;
 
+                    string str;
+
+                    str = oUser.email;
+
                 }
 
                 return RedirectToAction("Index", "Home");

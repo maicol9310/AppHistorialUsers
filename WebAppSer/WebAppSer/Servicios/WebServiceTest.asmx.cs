@@ -18,13 +18,12 @@ namespace WebAppSer.Servicios
     {
 
         [WebMethod]
-        public string stInserAct(string Descr)
+        public string stInserAct(string Descr, string Email)
         {
             try
             {             
-
                 WebData.Clases.ClsAct obClsAct = new WebData.Clases.ClsAct();
-                return obClsAct.stInsertarAct(Descr);
+                return obClsAct.stInsertarAct(Descr, Email);
             }
             catch (Exception ex) { throw ex; }
            

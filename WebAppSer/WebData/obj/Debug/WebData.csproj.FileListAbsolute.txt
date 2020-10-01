@@ -10,3 +10,9 @@ C:\Users\Barbatos\Desktop\App Historial\Historial\WebAppSer\WebData\obj\Debug\We
 C:\Users\Barbatos\Desktop\App Historial\Historial\WebAppSer\WebData\obj\Debug\WebData.csproj.CoreCompileInputs.cache
 C:\Users\Barbatos\Desktop\App Historial\Historial\WebAppSer\WebData\obj\Debug\WebData.dll
 C:\Users\Barbatos\Desktop\App Historial\Historial\WebAppSer\WebData\obj\Debug\WebData.pdb
+C:\Users\Barbatos\Desktop\.Net - Jan Michael Sanchez\AppHistorialUsers\WebAppSer\WebData\bin\Debug\WebData.dll
+C:\Users\Barbatos\Desktop\.Net - Jan Michael Sanchez\AppHistorialUsers\WebAppSer\WebData\bin\Debug\WebData.pdb
+C:\Users\Barbatos\Desktop\.Net - Jan Michael Sanchez\AppHistorialUsers\WebAppSer\WebData\obj\Debug\WebData.csprojAssemblyReference.cache
+C:\Users\Barbatos\Desktop\.Net - Jan Michael Sanchez\AppHistorialUsers\WebAppSer\WebData\obj\Debug\WebData.csproj.CoreCompileInputs.cache
+C:\Users\Barbatos\Desktop\.Net - Jan Michael Sanchez\AppHistorialUsers\WebAppSer\WebData\obj\Debug\WebData.dll
+C:\Users\Barbatos\Desktop\.Net - Jan Michael Sanchez\AppHistorialUsers\WebAppSer\WebData\obj\Debug\WebData.pdb
